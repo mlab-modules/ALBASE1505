@@ -10,18 +10,15 @@
 <!--- Name:ALBASE1505: --->
 # ALBASE1505
 <!--- LongName --->
-## ALBASE1505
 <!--- ELongName ---> 
 
 <!--- Lead --->
-None
+Motherboard ALBASE1505 has 15x5 holes with a spacing of 10.16 mm. Its overall dimensions are adapted for insertion into the box UNIBOX03A.
 <!--- ELead ---> 
 
-![ALBASE1505](doc/img/ALBASE1505_QRcode.png) 
-
+![obrazek](https://user-images.githubusercontent.com/5196729/236949948-92f0ea14-ed71-4122-b571-af88d0c631e4.png)
 
 <!--- Description --->
 <!--- EDescription --->
 <!--- Content --->
 <!--- EContent --->
-<sub><sup> Generated with [MLABweb](https://github.com/MLAB-project/MLABweb). (2019-02-18)</sup></sub>
